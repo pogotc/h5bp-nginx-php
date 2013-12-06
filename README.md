@@ -2,12 +2,17 @@
 
 # Requirements
 
+Requires the following cookbooks
+
+* nginx 
+* php (https://github.com/priestjim/chef-php)
+
 # Usage
 
-# Attributes
 
-# Recipes
+    h5bp_nginx_site "my_app" do
+        docroot "/var/www/my_app/"
+        server_name "my_app.site"
+        template "my_app.conf.erb"
+    end
 
-# Author
-
-Author:: YOUR_NAME (<YOUR_EMAIL>)
