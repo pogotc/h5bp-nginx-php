@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: made-nginx
+# Cookbook Name:: h5bp-nginx-php
 # Recipe:: default
 #
 # Copyright (C) 2013 YOUR_NAME

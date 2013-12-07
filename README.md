@@ -1,4 +1,4 @@
-# made-nginx cookbook
+# h5bp-nginx-php cookbook
 
 # Requirements
 
